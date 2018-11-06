@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\HeadFirstCSharp\Chapter 6\Chapter-6-Project-3\Chapter-6-Project-3\bin\Debug\Chapter-6-Project-3.exe.config
+C:\Users\USER\source\repos\HeadFirstCSharp\Chapter 6\Chapter-6-Project-3\Chapter-6-Project-3\bin\Debug\Chapter-6-Project-3.exe
+C:\Users\USER\source\repos\HeadFirstCSharp\Chapter 6\Chapter-6-Project-3\Chapter-6-Project-3\bin\Debug\Chapter-6-Project-3.pdb
+C:\Users\USER\source\repos\HeadFirstCSharp\Chapter 6\Chapter-6-Project-3\Chapter-6-Project-3\obj\Debug\Chapter-6-Project-3.csprojResolveAssemblyReference.cache
+C:\Users\USER\source\repos\HeadFirstCSharp\Chapter 6\Chapter-6-Project-3\Chapter-6-Project-3\obj\Debug\Chapter_6_Project_3.Form1.resources
+C:\Users\USER\source\repos\HeadFirstCSharp\Chapter 6\Chapter-6-Project-3\Chapter-6-Project-3\obj\Debug\Chapter_6_Project_3.Properties.Resources.resources
+C:\Users\USER\source\repos\HeadFirstCSharp\Chapter 6\Chapter-6-Project-3\Chapter-6-Project-3\obj\Debug\Chapter-6-Project-3.csproj.GenerateResource.Cache
+C:\Users\USER\source\repos\HeadFirstCSharp\Chapter 6\Chapter-6-Project-3\Chapter-6-Project-3\obj\Debug\Chapter-6-Project-3.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\HeadFirstCSharp\Chapter 6\Chapter-6-Project-3\Chapter-6-Project-3\obj\Debug\Chapter-6-Project-3.exe
+C:\Users\USER\source\repos\HeadFirstCSharp\Chapter 6\Chapter-6-Project-3\Chapter-6-Project-3\obj\Debug\Chapter-6-Project-3.pdb
